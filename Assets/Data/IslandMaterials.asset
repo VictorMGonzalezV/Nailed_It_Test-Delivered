@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6a57c0d52604ea1b931570f827f9b7, type: 3}
+  m_Name: IslandMaterials
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 574ba92d0982243a1ad570bc32a97082, type: 2}
+  - {fileID: 2100000, guid: 320a0576edce141dc841f3461eb3196e, type: 2}
+  - {fileID: 2100000, guid: 4c019ac03d7654d64a3d6fccd2c103a1, type: 2}
+  - {fileID: 2100000, guid: 61e502b719bc44ababf646ba1da25a6c, type: 2}
+  - {fileID: 2100000, guid: 3ffeb7f71f41f4fbe83aea90c2a33e8a, type: 2}

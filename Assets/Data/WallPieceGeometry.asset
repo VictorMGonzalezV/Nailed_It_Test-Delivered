@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8efa6f1af8644f4a940ec51c1c11554, type: 3}
+  m_Name: WallPieceGeometry
+  m_EditorClassIdentifier: 
+  geometry:
+  - {fileID: -358300730973993061, guid: ee9a3aa6a9c484844b88250241475272, type: 3}
+  - {fileID: -4551055636125575974, guid: 6fa13673956d9fe4d9c3473c6d17b32f, type: 3}
+  - {fileID: 8227062304945952881, guid: 763f65726d8a90d42ac1dae4a978f7fa, type: 3}
+  - {fileID: -31491039695399202, guid: 1f3d74ed290d7e441aee286f7ea0d506, type: 3}
+  - {fileID: -6683228461293992194, guid: 07bcf2973debf1b46b6e79ef607b71be, type: 3}

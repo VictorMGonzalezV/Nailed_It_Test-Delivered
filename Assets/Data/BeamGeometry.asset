@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8efa6f1af8644f4a940ec51c1c11554, type: 3}
+  m_Name: BeamGeometry
+  m_EditorClassIdentifier: 
+  geometry:
+  - {fileID: 5045776418684159192, guid: 70c1cecfc0e9ebe4c8dfeae9c1ea7af4, type: 3}
+  - {fileID: -3000506438785725466, guid: fe55ff1068c0ded4091d8c317c224c90, type: 3}
+  - {fileID: -9053221410863368225, guid: ff0ed22db1642184d9fe7e0e86ffed73, type: 3}
+  - {fileID: -3255547397838995501, guid: 0ec499ab77e15274cb5922e559b9c256, type: 3}
+  - {fileID: 3959657386424575376, guid: f807a3a2197610d4cbc9d41ea499870f, type: 3}

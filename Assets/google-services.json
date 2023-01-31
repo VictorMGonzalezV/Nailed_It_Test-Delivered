@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "757730881040",
+    "firebase_url": "https://nailed-it-8d755.firebaseio.com",
+    "project_id": "nailed-it-8d755",
+    "storage_bucket": "nailed-it-8d755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757730881040:android:de54a383e631ea6b7f2495",
+        "android_client_info": {
+          "package_name": "com.luckykat.nailedit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757730881040-o5ojgr08praf6lnueh4ctp1dok48948r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luckykat.nailedit",
+            "certificate_hash": "9549874b380496b8ef44a2c608d06a70de0e5b1f"
+          }
+        },
+        {
+          "client_id": "757730881040-6p5ifal9u8tr4e4uc4bqdout1fbn4src.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkANZ9QdAvAaC35AQW-DNs_SKulgCGaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757730881040-6p5ifal9u8tr4e4uc4bqdout1fbn4src.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757730881040-e26urumh5ju12u6h7bfo321outufggbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luckykat.nailedit",
+                "app_store_id": "1559885807"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8efa6f1af8644f4a940ec51c1c11554, type: 3}
+  m_Name: DoorRGeometry
+  m_EditorClassIdentifier: 
+  geometry:
+  - {fileID: -3055378462299240388, guid: 1314c98da4005a04d9b9475fd34d25e6, type: 3}
+  - {fileID: -2922673548013441682, guid: 3a8138ba2f5933c4b9f3c0b1f0738298, type: 3}
+  - {fileID: -1715220949055883955, guid: a8ee577afd686e14ca8ef2fb172e95f0, type: 3}
+  - {fileID: 5165019196491310248, guid: 75be949680a324d44bf35e2836253b60, type: 3}
+  - {fileID: 1097958342142077368, guid: 5c145c2c520d470468b99fcf4846c387, type: 3}
